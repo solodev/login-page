@@ -3,7 +3,7 @@ In Part II of our User Portal Series, we will walk you through building a login 
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Designing an Effective Login Page](https://www.solodev.com/blog/web-design/building-an-effective-login-page.stml) article.
+For detailed instructions, view Solodev's [Designing an Effective Login Page](https://www.solodev.com/blog/web-design/designing-an-effective-login-page.stml) article.
 
 ## Demo
 
